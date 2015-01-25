@@ -5,8 +5,17 @@ A simple OpenGL interface using Qt5.
 - tested with Windows and Linux.
 
 Requirements :
-The applicaiton needs "assets/unnamed.png" in order to show an icon.
-Otherwise, it will shows an ugly magenta colored square.
+- "assets/unnamed.png" in order to show an icon, otherwise, it will shows an ugly magenta colored square.
+- icudt53.dll
+- icuin53.dll
+- icuuc53.dll
+- libgcc_s_dw2-1.dll
+- libstdc++-6.dll
+- libwinpthread-1.dll
+- Qt5Cored.dll
+- Qt5Guid.dll
+- Qt5OpenGLd.dll
+- Qt5Widgetsd.dll
 
 It shows :
 - a blank square that represents the background (where all manipulations are possible)
