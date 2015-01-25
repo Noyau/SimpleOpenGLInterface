@@ -21,3 +21,7 @@ Functionalities :
 Notes :
 - when an element is dragged and dropped from the 'bg' to the 'hud', then it is reinitialized in 'hud' space
 - when the [shift] or [control] modifier is released during action when the clic is still pressed, then the action is aborted
+
+![Alt text](preview1.png?raw=true "Initial preview")
+![Alt text](preview2.png?raw=true "After drag and drop preview")
+![Alt text](preview3.png?raw=true "After drag and drop, scale and rotation preview")
